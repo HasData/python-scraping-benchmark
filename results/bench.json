@@ -1,0 +1,103 @@
+{
+ "_pw_browser": true,
+ "requests-bs4": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 21,
+  "last_err": "",
+  "wall_median": 3.71,
+  "peak_mb_median": 45,
+  "launch_median": null,
+  "probe": 403
+ },
+ "requests-lxml": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 21,
+  "last_err": "",
+  "wall_median": 3.01,
+  "peak_mb_median": 43,
+  "launch_median": null,
+  "probe": 403
+ },
+ "httpx-parsel": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 21,
+  "last_err": "",
+  "wall_median": 3.21,
+  "peak_mb_median": 45,
+  "launch_median": null,
+  "probe": 403
+ },
+ "curl_cffi-lxml": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 21,
+  "last_err": "",
+  "wall_median": 3.04,
+  "peak_mb_median": 42,
+  "launch_median": null,
+  "probe": 403
+ },
+ "scrapy": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 25,
+  "last_err": "",
+  "wall_median": 3.46,
+  "peak_mb_median": 81,
+  "launch_median": null,
+  "probe": 403
+ },
+ "selenium": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 25,
+  "last_err": "",
+  "wall_median": 21.29,
+  "peak_mb_median": 752,
+  "launch_median": 1.57,
+  "probe": "title: Just a moment..."
+ },
+ "playwright": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 24,
+  "last_err": "",
+  "wall_median": 14.79,
+  "peak_mb_median": 516,
+  "launch_median": 0.28,
+  "probe": 403
+ },
+ "scrapy-playwright": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 36,
+  "last_err": "",
+  "wall_median": 8.08,
+  "peak_mb_median": 1460,
+  "launch_median": null,
+  "probe": 403
+ },
+ "seleniumbase": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 22,
+  "last_err": "",
+  "wall_median": 32.06,
+  "peak_mb_median": 894,
+  "launch_median": 3.69,
+  "probe": 200
+ },
+ "playwright-stealth": {
+  "runs_n": 10,
+  "failures": 0,
+  "loc": 26,
+  "last_err": "",
+  "wall_median": 15.89,
+  "peak_mb_median": 536,
+  "launch_median": 0.26,
+  "probe": 403
+ }
+}

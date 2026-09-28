@@ -1,0 +1,62 @@
+{
+ "ex_requests.py": {
+  "rc": 0,
+  "stdout": "200 203338 text/html; charset=utf-8",
+  "stderr": ""
+ },
+ "ex_httpx.py": {
+  "rc": 0,
+  "stdout": "200 HTTP/1.1 203338",
+  "stderr": ""
+ },
+ "ex_httpx_async.py": {
+  "rc": 0,
+  "stdout": "[200, 200, 200]",
+  "stderr": ""
+ },
+ "ex_urllib3.py": {
+  "rc": 0,
+  "stdout": "200 203361",
+  "stderr": ""
+ },
+ "ex_curlcffi.py": {
+  "rc": 0,
+  "stdout": "403 5231",
+  "stderr": ""
+ },
+ "ex_bs4.py": {
+  "rc": 0,
+  "stdout": "250 Andorra",
+  "stderr": ""
+ },
+ "ex_lxml.py": {
+  "rc": 0,
+  "stdout": "250 Andorra Andorra la Vella",
+  "stderr": ""
+ },
+ "ex_parsel.py": {
+  "rc": 0,
+  "stdout": "250 {'name': 'Andorra', 'capital': 'Andorra la Vella', 'population': '84000'}",
+  "stderr": ""
+ },
+ "ex_playwright.py": {
+  "rc": 0,
+  "stdout": "16 Spotlight",
+  "stderr": ""
+ },
+ "ex_selenium.py": {
+  "rc": 0,
+  "stdout": "16 Spotlight",
+  "stderr": ""
+ },
+ "ex_scrapy.py": {
+  "rc": 0,
+  "stdout": "250 {'name': 'Andorra', 'capital': 'Andorra la Vella'}",
+  "stderr": ""
+ },
+ "ex_scrapy_playwright.py": {
+  "rc": 0,
+  "stdout": "16 Spotlight",
+  "stderr": ""
+ }
+}
