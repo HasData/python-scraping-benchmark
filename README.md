@@ -2,7 +2,7 @@
 
 ![HasData, the company that ran the benchmark](banner.png)
 
-One task, ten Python scraping stacks, measured. Every stack collects the same 200 rows from an eight-page catalogue, runs in its own fresh venv so imports and cold start stay honest, and reports wall-clock time, peak RSS, lines of code, and what a plain fetch of a protected page returns through it. The numbers back [our Python scraping libraries comparison](https://hasdata.com/blog/best-python-libraries-for-web-scraping).
+One task, ten Python scraping stacks, measured. Every stack collects the same 200 rows from an eight-page catalogue, runs in its own fresh venv so imports and cold start stay honest, and reports wall-clock time, peak RSS, lines of code, and what a plain fetch of a protected page returns through it. The numbers back [our Python scraping libraries comparison](https://hasdata.com/blog/best-python-libraries-for-web-scraping?utm_source=github&utm_medium=syndication&utm_campaign=best-python-libraries-for-web-scraping&utm_content=python-scraping-benchmark-readme).
 
 ## Table of Contents
 
@@ -62,9 +62,9 @@ The `examples/` files are the article's snippets kept runnable, and `results/exa
 
 ## Disclaimer
 
-The benchmark fetches publicly available pages from scraping sandboxes and records how public sites answer a plain request. Whether and how such collection is appropriate depends on jurisdiction and use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal) covers how we think about the question.
+The benchmark fetches publicly available pages from scraping sandboxes and records how public sites answer a plain request. Whether and how such collection is appropriate depends on jurisdiction and use, and nothing in this repository is legal advice. [Is Web Scraping Legal?](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=best-python-libraries-for-web-scraping&utm_content=python-scraping-benchmark-readme) covers how we think about the question.
 
 ## More Resources
 
-- [Best Python Libraries for Web Scraping](https://hasdata.com/blog/best-python-libraries-for-web-scraping), the comparison these numbers back
-- [Web Scraping with Python](https://hasdata.com/blog/web-scraping-with-python), the broader tutorial
+- [Best Python Libraries for Web Scraping](https://hasdata.com/blog/best-python-libraries-for-web-scraping?utm_source=github&utm_medium=syndication&utm_campaign=best-python-libraries-for-web-scraping&utm_content=python-scraping-benchmark-readme), the comparison these numbers back
+- [Web Scraping with Python](https://hasdata.com/blog/web-scraping-with-python?utm_source=github&utm_medium=syndication&utm_campaign=best-python-libraries-for-web-scraping&utm_content=python-scraping-benchmark-readme), the broader tutorial
